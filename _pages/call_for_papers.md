@@ -10,7 +10,7 @@ excerpt: "<br/>Call for Papers<br/>"
 
 <h2>Call for Papers</h2>
 
-We invite submissions of original contributions on methods, applications, and systems on artificial intelligence, machine learning, and semantic analysis. The scope of the workshop includes, but is not limited to, the following areas:
+We invite submissions of original contributions on methods, applications, and systems on artificial intelligence and machine learning for semantics extraction and analytics. The scope of the workshop includes, but is not limited to, the following areas:
 
 - Workflows, methodologies, and frameworks for semantics extractions
 -	Knowledge representation for semantics
@@ -26,15 +26,15 @@ We invite submissions of original contributions on methods, applications, and sy
 
 <h2>Submissions</h2>
 
-We invite submissions of relevant work that be of interest to the workshop. All submissions must be original contributions that have not been previously published and that are not currently under review by other conferences or journals. Submissions will be peer reviewed, **double-blinded**. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity, relevance, and reproducibility. All submissions must follow the [IJCAI-21 formatting guidelines](https://www.ijcai.org/authors_kit). 
+We invite submissions of relevant work that are of interest to the workshop. All submissions must be original contributions that have not been previously published and that are not currently under review by other conferences or journals. Submissions will be peer reviewed, **double-blinded**. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity and relevance. All submissions must follow the [IJCAI-21 formatting guidelines](https://www.ijcai.org/authors_kit){:target="_blank"}. 
 
 We invite two types of submissions 
-- Long Papers are no longer than seven pages in total: six pages for the main body (including figures) and one additional page for references.
-- Short papers follow 4+1 format, up to four pages for the body of the paper and one page for references that don’t fit within the fou-page limit. Short papers are appropriate for preliminary results, work in progress, applications, etc. 
+- Long Papers are no longer than seven pages in total: up to six pages for the main content (including figures) and one additional page for references.
+- Short Papers are no longer than five pages in total: up to four pages for the main content (including figures) and one additional page for references. Short papers are appropriate for preliminary results, work in progress, applications, etc. 
 
 Authors are required to submit PDF format. Papers that are not properly anonymized or are longer than set limit or with different format will be rejected without review.
 
 All submissions will go through double-blind reviewing process. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. 
 
-Submission will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea21). For any submission questions, please write to the organizer at inquiry.asea2021@easychair.org.
+Submissions will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea21){:target="_blank"}. For any submission questions, please write to the organizer at inquiry.asea2021@easychair.org.
 
