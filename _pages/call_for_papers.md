@@ -1,0 +1,40 @@
+---
+title: "The IJCAI-21 Workshop on Applied Semantics Extraction and Analytics (ASEA)"
+layout: splash
+permalink: /call_for_papers
+header:
+  overlay_image: "/assets/images/home_splash_nyc.png"
+  #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
+excerpt: "<br/>Call for Papers<br/>"
+---
+
+<h2>Call for Papers</h2>
+
+We invite submissions of original contributions on methods, applications, and systems on artificial intelligence, machine learning, and semantic analysis. The scope of the workshop includes, but is not limited to, the following areas:
+
+•	Workflows, methodologies, and frameworks for semantics extractions
+•	Knowledge representation for semantics
+•	Extract data-specific semantics (e.g., text, image, video, etc.)
+•	Extract Semantics from multi-modal data
+•	Fusion of semantics from multiple data sets
+•	Applied Semantics – how extracted semantics enable AI systems to perform?
+•	Semantics and Explainability
+•	Semantics representations and specifications
+•	Semantics and Data Description
+•	Semantics from large-scale data sources such as Wikipedia, Web, and Social Networked data
+•	Applications in Finance, Legal, Sports, News, research publications, etc.
+
+<h2>Submissions</h2>
+
+We invite submissions of relevant work that be of interest to the workshop. All submissions must be original contributions that have not been previously published and that are not currently under review by other conferences or journals. Submissions will be peer reviewed, **double-blinded**. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity, relevance, and reproducibility. All submissions must follow the [IJCAI-21 formatting guidelines](https://www.ijcai.org/authors_kit). 
+
+We invite two types of submissions 
+- Long Papers are no longer than seven pages in total: six pages for the main body (including figures) and one additional page for references.
+- Short papers follow 4+1 format, up to four pages for the body of the paper and one page for references that don’t fit within the fou-page limit. Short papers are appropriate for preliminary results, work in progress, applications, etc. 
+
+Authors are required to submit PDF format. Papers that are not properly anonymized or are longer than set limit or with different format will be rejected without review.
+
+All submissions will go through double-blind reviewing process. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. 
+
+Submission will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea21). For any submission questions, please write to the organizer at inquiry.asea2021@easychair.org.
+
