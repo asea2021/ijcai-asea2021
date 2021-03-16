@@ -34,7 +34,7 @@ We invite two types of submissions
 
 Authors are required to submit PDF format. Papers that are not properly anonymized or are longer than set limit or with different format will be rejected without review.
 
-All submissions will go through double-blind reviewing process. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. 
+All submissions will go through a double-blind reviewing process. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. 
 
-Submissions will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea21){:target="_blank"}. For any submission questions, please write to the organizer at inquiry.asea2021@easychair.org.
+Submissions will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea21){:target="_blank"}. For any submission questions, please write to the organizers at inquiry.asea2021@easychair.org.
 
