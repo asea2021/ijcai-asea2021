@@ -12,17 +12,17 @@ excerpt: "<br/>Call for Papers<br/>"
 
 We invite submissions of original contributions on methods, applications, and systems on artificial intelligence, machine learning, and semantic analysis. The scope of the workshop includes, but is not limited to, the following areas:
 
-•	Workflows, methodologies, and frameworks for semantics extractions
-•	Knowledge representation for semantics
-•	Extract data-specific semantics (e.g., text, image, video, etc.)
-•	Extract Semantics from multi-modal data
-•	Fusion of semantics from multiple data sets
-•	Applied Semantics – how extracted semantics enable AI systems to perform?
-•	Semantics and Explainability
-•	Semantics representations and specifications
-•	Semantics and Data Description
-•	Semantics from large-scale data sources such as Wikipedia, Web, and Social Networked data
-•	Applications in Finance, Legal, Sports, News, research publications, etc.
+- Workflows, methodologies, and frameworks for semantics extractions
+-	Knowledge representation for semantics
+-	Extract data-specific semantics (e.g., text, image, video, etc.)
+-	Extract Semantics from multi-modal data
+-	Fusion of semantics from multiple data sets
+-	Applied Semantics – how extracted semantics enable AI systems to perform?
+-	Semantics and Explainability
+-	Semantics representations and specifications
+-	Semantics and Data Description
+-	Semantics from large-scale data sources such as Wikipedia, Web, and Social Networked data
+-	Applications in Finance, Legal, Sports, News, research publications, etc.
 
 <h2>Submissions</h2>
 
