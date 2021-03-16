@@ -5,6 +5,6 @@ permalink: /schedule
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>ASEA Organizing Committee<br/>"
+excerpt: "<br/>ASEA Schedule<br/>"
 ---
 <h3>Coming Soon!</h3>
