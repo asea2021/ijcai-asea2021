@@ -36,5 +36,35 @@ Authors are required to submit PDF format. Papers that are not properly anonymiz
 
 All submissions will go through a double-blind reviewing process. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. 
 
-Submissions will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea21){:target="_blank"}. For any submission questions, please write to the organizers at inquiry.asea2021@easychair.org.
+Submissions will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea21){:target="_blank"}. 
+
+<h2 id="dates">Important Dates (Anywhere on Earth)</h2>
+<center>
+<table style="width: 90%">
+    <tbody>
+        <tr>
+            <td>Paper Submission Deadline</td>
+            <td>Saturday</td>
+            <td>Apr 24, 2021</td>
+        </tr>
+        <tr>
+            <td>Notification of Acceptance</td>
+            <td>Monday</td>
+            <td>May 24, 2021</td>
+        </tr>   
+        <tr>
+            <td>IJCAI-21 Early Registration Deadline</td>
+            <td></td>
+            <td>Early June 2021</td>
+        </tr>             
+        <tr>
+            <td>Workshop</td>
+            <td>Monday</td>
+            <td>Aug 23, 2021</td>
+        </tr>   
+    </tbody>
+</table>
+</center>
+
+For any submission questions, please write to the organizers at inquiry.asea2021@easychair.org.
 
