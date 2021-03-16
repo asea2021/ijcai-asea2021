@@ -3,7 +3,7 @@ title: "The IJCAI-21 Workshop on Applied Semantics Extraction and Analytics (ASE
 layout: splash
 permalink: /schedule
 header:
-  overlay_image: "/assets/images/home_splash_nyc.png"
+  overlay_image: "/assets/images/banner.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>ASEA Schedule<br/>"
 ---

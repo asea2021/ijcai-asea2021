@@ -4,7 +4,7 @@ layout: splash
 hidden: true
 permalink: /
 header:
-  overlay_image: "/assets/images/home_splash_nyc.png"
+  overlay_image: "/assets/images/banner.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>August 23, 2021, A Virtual Workshop<br/>"
 ---
