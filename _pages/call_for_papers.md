@@ -36,7 +36,7 @@ Authors are required to submit PDF format. Papers that are not properly anonymiz
 
 All submissions will go through a double-blind reviewing process. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. 
 
-Submissions will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea21){:target="_blank"}. 
+Submissions will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea2021){:target="_blank"}. 
 
 <h2 id="dates">Important Dates (Anywhere on Earth)</h2>
 <center>
