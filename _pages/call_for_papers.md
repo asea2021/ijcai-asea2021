@@ -5,10 +5,10 @@ permalink: /call_for_papers
 header:
   overlay_image: "/assets/images/banner.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>Call for Papers<br/>"
+excerpt: '<br/><span class="fa fa-comments" style="margin-right:8px; font-size: 90%;"></span>ASEA Call for Papers<br/>'
 ---
 
-<h2>Call for Papers</h2>
+<h2>Topics</h2>
 
 We invite submissions of original contributions on methods, applications, and systems on artificial intelligence and machine learning for semantics extraction and analytics. The scope of the workshop includes, but is not limited to, the following areas:
 
