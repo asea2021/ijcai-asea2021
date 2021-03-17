@@ -9,7 +9,7 @@ header:
 excerpt: '<span class="fa fa-calendar-day" style="margin-right:8px; font-size: 90%;"></span>August 21-23, 2021<br/><span class="fa fa-map-marker-alt" style="margin-right:8px; font-size: 90%;"></span>Virtual'
 ---
 
-<h2>Introduction</h2>
+<h2>About ASEA</h2>
 
 Semantics has a vital role in an AI system. In building AI systems for real-world applications, semantics are often extracted from the data and managed through knowledge bases. The critical problems are determining what these semantics are, how to extract the relevant semantics, which representation format to use, and applying these semantics to run an AI system. Although there is research in extracting semantics from databases, tables, documents, images, videos, and even multi-modal data, the work has often been conducted in independent research silos without emphasizing the overarching focus on semantics and AI system.  
 

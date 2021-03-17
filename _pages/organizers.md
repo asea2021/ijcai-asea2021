@@ -46,20 +46,21 @@ creating machine computable representations of information and reasoning. Previo
 fund, an International hedge fund, and a global startup. Sameena has a PhD in Artificial Intelligence from IIT Delhi, a Masters in Computer Science from IIT Delhi and a BS in Electronics Engg. She is the winner of the top PhD in the country award from Microsoft Research, Cloudera top AI/ML application award for Reuters Tracer, several best paper at top conferences, and other innovation based awards and recognitions. She has contributed 50+ Publications, and 25+ Patents.
 
 <h3>Program Committee</h3>
-Tim Finin, UMBC<br>
-Quanzhi Li, Alibaba Inc<br>
-Xiaomo Liu, S&P Global<br>
-Deborah McGuinness, RPI<br>
-Armineh Nourbakhsh, J.P. Morgan AI Research<br>
-Pulkit Parikh, IIIT Hyderabad<br>
-Jay Pujara, USC<br>
-Natraj Raman, J.P. Morgan AI Research<br>
-Juan Sequeda, Data.world<br>
-Amit Sheth, University of South Carolina<br>
-Dezhao Song, Thomson Reuters<br>
-Charese Smiley, J.P. Morgan AI Research<br>
-Lini Thomas, IIIT Hyderabad<br>
-Binh Vu, USC<br>
+
+- Tim Finin, UMBC
+- Quanzhi Li, Alibaba Inc
+- Xiaomo Liu, S&P Global
+- Deborah McGuinness, RPI
+- Armineh Nourbakhsh, J.P. Morgan AI Research
+- Pulkit Parikh, IIIT Hyderabad
+- Jay Pujara, USC
+- Natraj Raman, J.P. Morgan AI Research
+- Juan Sequeda, Data.world
+- Amit Sheth, University of South Carolina
+- Dezhao Song, Thomson Reuters
+- Charese Smiley, J.P. Morgan AI Research
+- Lini Thomas, IIIT Hyderabad
+- Binh Vu, USC
 
 
 
