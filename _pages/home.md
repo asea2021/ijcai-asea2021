@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/banner.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>August 21-23, 2021, A Virtual Workshop<br/>"
+excerpt: '<span class="fa fa-calendar-day" style="margin-right:8px; font-size: 90%;"></span>August 21-23, 2021<br/><span class="fa fa-map-marker-alt" style="margin-right:8px; font-size: 90%;"></span>Virtual'
 ---
 
 <h2>Introduction</h2>
