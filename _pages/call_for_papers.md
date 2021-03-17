@@ -55,12 +55,12 @@ Submissions will be accepted via [EasyChair submission website](https://easychai
         <tr>
             <td>IJCAI-21 Early Registration Deadline</td>
             <td></td>
-            <td>Early June 2021</td>
+            <td>June 2021</td>
         </tr>             
         <tr>
             <td>Workshop</td>
-            <td>Monday</td>
-            <td>Aug 23, 2021</td>
+            <td></td>
+            <td>Aug 21-23, 2021</td>
         </tr>   
     </tbody>
 </table>

@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/banner.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>August 23, 2021, A Virtual Workshop<br/>"
+excerpt: "<br/>August 21-23, 2021, A Virtual Workshop<br/>"
 ---
 
 <h2>Introduction</h2>
@@ -33,12 +33,12 @@ This one-day virtual workshop's objective is to bring together researchers worki
         <tr>
             <td>IJCAI-21 Early Registration Deadline</td>
             <td></td>
-            <td>Early June 2021</td>
+            <td>June 2021</td>
         </tr>             
         <tr>
             <td>Workshop</td>
-            <td>Monday</td>
-            <td>Aug 23, 2021</td>
+            <td></td>
+            <td>Aug 21-23, 2021</td>
         </tr>   
     </tbody>
 </table>
