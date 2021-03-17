@@ -1,5 +1,5 @@
 ---
-title: "The IJCAI-21 Workshop on Applied Semantics Extraction and Analytics (ASEA)"
+title: '<span style="font-size:80%;">The IJCAI-21 Workshop on </span><br>Applied Semantics Extraction and Analytics  <span style="font-size:70%;">(ASEA)</span>'
 layout: splash
 permalink: /schedule
 header:
