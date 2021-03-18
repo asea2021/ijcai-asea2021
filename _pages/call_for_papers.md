@@ -26,15 +26,13 @@ We invite submissions of original contributions on methods, applications, and sy
 
 <h2>Submissions</h2>
 
-We invite submissions of relevant work that are of interest to the workshop. All submissions must be original contributions that have not been previously published and that are not currently under review by other conferences or journals. Submissions will be peer reviewed, **double-blinded**. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity and relevance. All submissions must follow the [IJCAI-21 formatting guidelines](https://www.ijcai.org/authors_kit){:target="_blank"}. 
+All submissions must be original contributions that have not been previously published and that are not currently under review by other conferences or journals. Submissions will be peer reviewed, **double-blinded**. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity and relevance. All submissions must follow the [IJCAI-21 formatting guidelines](https://www.ijcai.org/authors_kit){:target="_blank"}. 
 
 We invite two types of submissions 
 - Long Papers are no longer than seven pages in total: up to six pages for the main content (including figures) and one additional page for references.
 - Short Papers are no longer than five pages in total: up to four pages for the main content (including figures) and one additional page for references. Short papers are appropriate for preliminary results, work in progress, applications, etc. 
 
-Authors are required to submit PDF format. Papers that are not properly anonymized or are longer than set limit or with different format will be rejected without review.
-
-All submissions will go through a double-blind reviewing process. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. 
+Authors are required to submit PDF format. Papers that are not properly anonymized or are longer than set limit or with different format will be rejected without review. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. 
 
 Submissions will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea2021){:target="_blank"}. 
 
