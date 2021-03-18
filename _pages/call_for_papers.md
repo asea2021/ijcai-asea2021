@@ -66,5 +66,5 @@ Submissions will be accepted via [EasyChair submission website](https://easychai
 </table>
 </center>
 
-For any submission questions, please write to the organizers at <kbd>inquiry.asea2021@easychair.org</kbd>.
+For any submission questions, please write to the organizers at <kbd>asea2021@easychair.org</kbd>.
 

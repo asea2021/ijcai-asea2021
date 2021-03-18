@@ -114,7 +114,7 @@ footer:
       url: https://twitter.com/hashtag/asea2021?f=tweets
     - label: "Contact"
       icon: "fa fa-fw fa-envelope"
-      url: mailto:inquiry.asea2021@easychair.org 
+      url: mailto:asea2021@easychair.org 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: 

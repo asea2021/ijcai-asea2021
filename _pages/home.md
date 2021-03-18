@@ -47,4 +47,4 @@ We cordially welcome researchers, practitioners, and students from academic and 
 </center>
 
 <h2 id='contact'>Contact Information</h2>
-We look forward to seeing you in ASEA 2021! For general inquiries about ASEA, please write to <kbd>inquiry.asea2021@easychair.org</kbd>.
+We look forward to seeing you in ASEA 2021! For general inquiries about ASEA, please write to <kbd>asea2021@easychair.org</kbd>.
