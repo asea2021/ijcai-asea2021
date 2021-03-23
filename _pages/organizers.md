@@ -50,6 +50,7 @@ fund, an International hedge fund, and a global startup. Sameena has a PhD in Ar
 - Tim Finin, UMBC
 - Quanzhi Li, Alibaba Inc
 - Xiaomo Liu, S&P Global
+- Zhiqiang Ma, S&P Global
 - Deborah McGuinness, RPI
 - Armineh Nourbakhsh, J.P. Morgan AI Research
 - Pulkit Parikh, IIIT Hyderabad
