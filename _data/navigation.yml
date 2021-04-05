@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Call for Papers"
     url: call_for_papers
+  - title: "Speakers"
+    url: speakers 
   - title: "Schedule"
     url: schedule 
   - title: "Organization"
