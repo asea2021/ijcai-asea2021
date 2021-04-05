@@ -18,6 +18,6 @@ feature_row:
     excerpt: "Google Research"
 ---
 <h2>Keynote Speakers</h2>
-{% include feature_row %}
+{% include feature_row type="center" %}
 
 
