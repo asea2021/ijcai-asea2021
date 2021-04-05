@@ -7,7 +7,7 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: '<br/><span class="fa fa-user-tag" style="margin-right:8px; font-size: 90%;"></span>ASEA Speakers<br/>'
 feature_row:
-  - image_path: assets/images/havelvy.gif
+  - image_path: assets/images/halevy.png
     title: "Alon Y. Halevy"
     excerpt: "Facebook AI"
   - image_path: assets/images/heng.png
