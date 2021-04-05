@@ -6,7 +6,7 @@ header:
   overlay_image: "/assets/images/banner1.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: '<br/><span class="fa fa-user-tag" style="margin-right:8px; font-size: 90%;"></span>ASEA Speakers<br/>'
-feature_row:
+feature_rowcustom:
   - image_path: assets/images/halevy.png
     title: '<span style="font-size:80%;">Alon Y. Halevy</span>'
     excerpt: "Facebook AI"
@@ -18,6 +18,6 @@ feature_row:
     excerpt: "Google Research"
 ---
 <h2>Keynote Speakers</h2>
-{% include feature_row %}
+{% include feature_rowcustom %}
 
 

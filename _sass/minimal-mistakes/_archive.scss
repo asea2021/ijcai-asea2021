@@ -95,6 +95,16 @@
   }
 }
 
+.archive__item-teaser.custom {
+  position: relative;
+  border-radius: $border-radius;
+  overflow: hidden;
+
+  img {
+    width: auto;
+  }
+}
+
 .archive__item-caption {
   position: absolute;
   bottom: 0;
