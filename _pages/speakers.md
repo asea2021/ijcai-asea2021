@@ -8,16 +8,16 @@ header:
 excerpt: '<br/><span class="fa fa-user-tag" style="margin-right:8px; font-size: 90%;"></span>ASEA Speakers<br/>'
 feature_row:
   - image_path: assets/images/halevy.png
-    title: "Alon Y. Halevy"
+    title: '<span style="font-size:80%;">Alon Y. Halevy</span>'
     excerpt: "Facebook AI"
   - image_path: assets/images/heng.png
-    title: "Heng Ji"
+    title: '<span style="font-size:80%;">Heng Ji</span>'
     excerpt: "University of Illinois"
   - image_path: assets/images/partha.jpg
-    title: "Partha P. Talukdar"
+    title: '<span style="font-size:80%;">Partha P. Talukdar</span>'
     excerpt: "Google Research"
 ---
 <h2>Keynote Speakers</h2>
-{% include feature_row type="center" %}
+{% include feature_row %}
 
 
