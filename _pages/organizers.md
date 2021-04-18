@@ -58,7 +58,6 @@ fund, an International hedge fund, and a global startup. Sameena has a PhD in Ar
 - Natraj Raman, J.P. Morgan AI Research
 - Juan Sequeda, Data.world
 - Amit Sheth, University of South Carolina
-- Dezhao Song, Thomson Reuters
 - Charese Smiley, J.P. Morgan AI Research
 - Lini Thomas, IIIT Hyderabad
 - Binh Vu, USC
