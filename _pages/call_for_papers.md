@@ -42,22 +42,18 @@ Submissions will be accepted via [EasyChair submission website](https://easychai
     <tbody>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>Saturday</td>
-            <td>Apr 24, 2021</td>
+            <td>May 7, 2021</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
-            <td>Monday</td>
-            <td>May 24, 2021</td>
+            <td>May 25, 2021</td>
         </tr>   
         <tr>
             <td>IJCAI-21 Early Registration Deadline</td>
-            <td></td>
             <td>June 2021</td>
         </tr>             
         <tr>
             <td>Workshop</td>
-            <td></td>
             <td>Aug 21-23, 2021</td>
         </tr>   
     </tbody>
