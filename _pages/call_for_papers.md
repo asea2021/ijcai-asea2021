@@ -32,9 +32,13 @@ We invite two types of submissions
 - Long Papers are no longer than seven pages in total: up to six pages for the main content (including figures) and one additional page for references.
 - Short Papers are no longer than five pages in total: up to four pages for the main content (including figures) and one additional page for references. Short papers are appropriate for preliminary results, work in progress, applications, etc. 
 
-Authors are required to submit PDF format. Papers that are not properly anonymized or are longer than set limit or with different format will be rejected without review. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. 
+Authors are required to submit PDF format. Papers that are not properly anonymized or are longer than set limit or with different format will be rejected without review. Accepted papers will be presented as either a talk or a poster, depending on reviewer’s recommendations. At least one author of each accepted submission must attend the workshop. Accepted papers will be freely available in the conference website.
 
-Submissions will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=asea2021){:target="_blank"}. 
+Submissions can be made via [EasyChair submission website](https://easychair.org/conferences/?conf=asea2021){:target="_blank"}. 
+
+
+
+
 
 <h2 id="dates">Important Dates (Anywhere on Earth)</h2>
 <center>
@@ -42,16 +46,12 @@ Submissions will be accepted via [EasyChair submission website](https://easychai
     <tbody>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>May 7, 2021</td>
+            <td>May 20, 2021</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
-            <td>May 25, 2021</td>
+            <td>June 21, 2021</td>
         </tr>   
-        <tr>
-            <td>IJCAI-21 Early Registration Deadline</td>
-            <td>June 2021</td>
-        </tr>             
         <tr>
             <td>Workshop</td>
             <td>Aug 21-23, 2021</td>

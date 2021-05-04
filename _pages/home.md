@@ -24,16 +24,12 @@ We cordially welcome researchers, practitioners, and students from academic and 
     <tbody>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>May 7, 2021</td>
+            <td>May 20, 2021</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
-            <td>May 25, 2021</td>
+            <td>June 21, 2021</td>
         </tr>   
-        <tr>
-            <td>IJCAI-21 Early Registration Deadline</td>
-            <td>June 2021</td>
-        </tr>             
         <tr>
             <td>Workshop</td>
             <td>Aug 21-23, 2021</td>
