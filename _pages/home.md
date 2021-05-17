@@ -24,7 +24,7 @@ We cordially welcome researchers, practitioners, and students from academic and 
     <tbody>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>May 20, 2021</td>
+            <td>June 6, 2021</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>

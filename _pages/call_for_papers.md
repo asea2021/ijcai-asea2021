@@ -46,7 +46,7 @@ Submissions can be made via [EasyChair submission website](https://easychair.org
     <tbody>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>May 20, 2021</td>
+            <td>June 6, 2021</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
