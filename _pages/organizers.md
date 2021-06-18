@@ -60,6 +60,7 @@ fund, an International hedge fund, and a global startup. Sameena has a PhD in Ar
 - Amit Sheth, University of South Carolina
 - Charese Smiley, J.P. Morgan AI Research
 - Lini Thomas, IIIT Hyderabad
+- Vasudeva Varma, IIIT Hyderabad
 - Binh Vu, USC
 
 
