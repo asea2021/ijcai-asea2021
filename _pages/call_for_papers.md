@@ -50,11 +50,15 @@ Submissions can be made via [EasyChair submission website](https://easychair.org
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
-            <td>June 21, 2021</td>
+            <td><s>June 21, 2021</s></td>
         </tr>   
         <tr>
+            <td>Camera Ready Paper</td>
+            <td>July 10, 2021</td>
+        </tr> 
+        <tr>
             <td>Workshop</td>
-            <td>Aug 21-23, 2021</td>
+            <td>August 21, 2021</td>
         </tr>   
     </tbody>
 </table>

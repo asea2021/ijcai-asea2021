@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/banner1.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: '<span class="fa fa-calendar-day" style="margin-right:8px; font-size: 90%;"></span>August 21-23, 2021<br/><span class="fa fa-map-marker-alt" style="margin-right:8px; font-size: 90%;"></span>Virtual'
+excerpt: '<span class="fa fa-calendar-day" style="margin-right:8px; font-size: 90%;"></span>August 21, 2021<br/><span class="fa fa-map-marker-alt" style="margin-right:8px; font-size: 90%;"></span>Virtual'
 ---
 
 <h2>About ASEA</h2>
@@ -21,18 +21,22 @@ We cordially welcome researchers, practitioners, and students from academic and 
 <h2 id="dates">Important Dates (Anywhere on Earth)</h2>
 <center>
 <table style="width: 90%">
-    <tbody>
+   <tbody>
         <tr>
             <td>Paper Submission Deadline</td>
             <td><s>June 6, 2021</s></td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
-            <td>June 21, 2021</td>
+            <td><s>June 21, 2021</s></td>
         </tr>   
         <tr>
+            <td>Camera Ready Paper</td>
+            <td>July 10, 2021</td>
+        </tr> 
+        <tr>
             <td>Workshop</td>
-            <td>Aug 21-23, 2021</td>
+            <td>August 21, 2021</td>
         </tr>   
     </tbody>
 </table>
