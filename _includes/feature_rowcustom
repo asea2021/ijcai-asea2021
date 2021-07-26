@@ -4,10 +4,11 @@
   {% assign feature_rowcustom = page.feature_rowcustom %}
 {% endif %}
 
+<center>
 <div style="display:table;width:100%;">
   <div style="display:table-row;">
     {% for f in feature_rowcustom %}
-          <div style="display:table-cell;">
+          <div style="display:table-cell;text-align:center;">
               <img src="{{ f.image_path | relative_url }}"
                     alt="{% if f.alt %}{{ f.alt }}{% endif %}">
               <br/>
@@ -16,6 +17,7 @@
           </div>
         {% endfor %}
   </div>
-<div>
+</div>
+</center>
 
 

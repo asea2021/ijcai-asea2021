@@ -8,19 +8,19 @@ header:
 excerpt: '<br/><span class="fa fa-user-tag" style="margin-right:8px; font-size: 90%;"></span>ASEA Speakers<br/>'
 feature_rowcustom:
   - image_path: assets/images/halevy.png
-    title: '<span style="font-size:80%;">Alon Y. Halevy</span>'
+    title: '<span>Alon Y. Halevy</span>'
     excerpt: "Facebook AI"
     url: https://homes.cs.washington.edu/~alon/
   - image_path: assets/images/heng.png
-    title: '<span style="font-size:80%;">Heng Ji</span>'
+    title: '<span>Heng Ji</span>'
     excerpt: "University of Illinois"
     url: https://cs.illinois.edu/about/people/department-faculty/hengji
   - image_path: assets/images/partha.jpg
-    title: '<span style="font-size:80%;">Partha P. Talukdar</span>'
+    title: '<span>Partha P. Talukdar</span>'
     excerpt: "Google Research"
     url: https://talukdar.net/
   - image_path: assets/images/weld.jpg
-    title: '<span style="font-size:80%;">Dan Weld</span>'
+    title: '<span>Dan Weld</span>'
     excerpt: "Allen Institute of AI"
     url: https://www.cs.washington.edu/people/faculty/weld
 ---
