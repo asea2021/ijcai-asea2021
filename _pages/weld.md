@@ -1,7 +1,7 @@
 ---
 title: '<span style="font-size:80%;">The IJCAI-21 Workshop on </span><br>Applied Semantics Extraction and Analytics  <span style="font-size:70%;">(ASEA)</span>'
 layout: single
-permalink: /partha
+permalink: /weld
 header:
   overlay_image: "/assets/images/banner1.png"
 excerpt: '<br/><span class="fa fa-user-tag" style="margin-right:8px; font-size: 90%;"></span>ASEA Speakers<br/>'

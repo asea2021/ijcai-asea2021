@@ -7,6 +7,14 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: '<br/><span class="fa fa-user-tag" style="margin-right:8px; font-size: 90%;"></span>ASEA Speakers<br/>'
 feature_rowcustom:
+  - image_path: assets/images/weld.jpg
+    title: '<span>Dan Weld</span>'
+    excerpt: "Allen Institute of AI"
+    url: /weld
+  - image_path: assets/images/partha.jpg
+    title: '<span>Partha P. Talukdar</span>'
+    excerpt: "Google Research"
+    url: /partha
   - image_path: assets/images/halevy.png
     title: '<span>Alon Y. Halevy</span>'
     excerpt: "Facebook AI"
@@ -15,14 +23,6 @@ feature_rowcustom:
     title: '<span>Heng Ji</span>'
     excerpt: "University of Illinois"
     url: /heng
-  - image_path: assets/images/partha.jpg
-    title: '<span>Partha P. Talukdar</span>'
-    excerpt: "Google Research"
-    url: /partha
-  - image_path: assets/images/weld.jpg
-    title: '<span>Dan Weld</span>'
-    excerpt: "Allen Institute of AI"
-    url: /weld
 ---
 <h2>Keynote Speakers</h2>
 {% include feature_rowcustom %}
