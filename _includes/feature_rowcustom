@@ -5,18 +5,34 @@
 {% endif %}
 
 <center>
-  <table style="width:100%;">
+<table>
+	<colgroup>
+    	<col width="25%">
+    	<col width="25%">
+      <col width="25%">
+      <col width="25%">
+	</colgroup>
+  <thead>
     <tr>
-      {% for f in feature_rowcustom %}
-        <td style="width:25%;">
-            <img src="{{ f.image_path | relative_url }}"
-                  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-            <br/>
-            <h4>{{ f.title }}</h4>
-            <div>{{ f.excerpt }}</div>
-        </td>
-      {% endfor %}
+      <td>Test1</td>
+      <td>Test2</td>
+      <td>Test3</td>
+      <td>Test4</td>
     </tr>
-  </table>
+  </thead>
+  <tbody>
+    <tr>
+        {% for f in feature_rowcustom %}
+          <td>
+              <img src="{{ f.image_path | relative_url }}"
+                    alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              <br/>
+              <h4>{{ f.title }}</h4>
+              <div>{{ f.excerpt }}</div>
+          </td>
+        {% endfor %}
+    </tr>
+  </tbody>
+</table>
 </center>
 
