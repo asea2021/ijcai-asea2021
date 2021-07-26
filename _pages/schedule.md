@@ -8,12 +8,11 @@ header:
 excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-size: 90%;"></span>ASEA Schedule<br/>'
 ---
 <h2>Presentation Schedule</h2>
-*All timestamps reflect UTC.*
 <center>
 <table>
 	<colgroup>
-    	<col width="15%">
-    	<col width="85%">
+    	<col width="20%">
+    	<col width="80%">
 	</colgroup>
 <thead>
 	<tr bgcolor="#f7f1df">
@@ -23,47 +22,47 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
 </thead>
 <tbody>
     <tr>
-        <td markdown="span">2:00 PM - 2:45 PM</td>
-        <td markdown="span">***Keynote:*** Semantic Scholar - Advanced NLP to Accelerate Scientific Research<br/>*Dan Weld (Allen Institute of AI)*</td>
+        <td markdown="span">2:00 PM - 2:45 PM (UTC)</td>
+        <td markdown="span">***Keynote 1:*** Semantic Scholar - Advanced NLP to Accelerate Scientific Research<br/>*Dan Weld (Allen Institute of AI)*</td>
     </tr>
     <tr>
-        <td markdown="span">2:00 PM - 2:45 PM</td>
-        <td markdown="span">***Keynote:*** Question Answering over Temporal Knowledge Graph<br/>*Partha Pratim Talukdar (Google Research)*</td>
+        <td markdown="span">2:00 PM - 2:45 PM (UTC)</td>
+        <td markdown="span">***Keynote 2:*** Question Answering over Temporal Knowledge Graph<br/>*Partha Pratim Talukdar (Google Research)*</td>
     </tr>
     <tr>
-        <td markdown="span">3:30 PM - 3:45 PM</td>
+        <td markdown="span">3:30 PM - 3:45 PM (UTC)</td>
         <td markdown="span">***Paper 1:*** Extraction of Complex Semantic Relations from Resumes<br/>*Sachin Pawar, Devavrat Thosar, Nitin Ramrakhiyani, Girish Palshikar, Anindita Sinha and Rajiv Srivastava (TCS Research)*</td>
     </tr>
     <tr>
-        <td markdown="span">3:45 PM - 4:00 PM</td>
+        <td markdown="span">3:45 PM - 4:00 PM (UTC)</td>
         <td markdown="span">***Paper 2:*** Enriching Medical Natural Language Processing via Large-scale Concept Graph from Electronic Medical Records<br/>*Xiaokang Jiao, Xinhui Du, Zengtao Jiao, Kangning Cai and Jun Yan (Yidu Cloud)*</td>
     </tr>
     <tr>
-        <td markdown="span">4:00 PM - 4:15 PM</td>
+        <td markdown="span">4:00 PM - 4:15 PM (UTC)</td>
         <td markdown="span">***Paper 3:*** Extracting Semantics from Maintenance Records<br/>*Sharad Dixit, Varish Mulwad and Abhinav Saxena (GE Research)*</td>
     </tr>
     <tr bgcolor="#f7f1df">
-        <td markdown="span">4:15 PM - 4:30 PM</td>
+        <td markdown="span">4:15 PM - 4:30 PM (UTC)</td>
         <td markdown="span">Break</td>
     </tr> 
     <tr>
-        <td markdown="span">4:30 PM - 5:15 PM</td>
-        <td markdown="span">***Keynote:*** TBD<br/>*Alon Halevy (Facebook AI)*</td>
+        <td markdown="span">4:30 PM - 5:15 PM (UTC)</td>
+        <td markdown="span">***Keynote 3:*** TBD<br/>*Alon Halevy (Facebook AI)*</td>
     </tr>
     <tr>
-        <td markdown="span">5:15 PM - 6:00 PM</td>
-        <td markdown="span">***Keynote:*** Information Surgery<br/>*Heng Ji (University of Illinois)*</td>
+        <td markdown="span">5:15 PM - 6:00 PM (UTC)</td>
+        <td markdown="span">***Keynote 4:*** Information Surgery<br/>*Heng Ji (University of Illinois)*</td>
     </tr>
     <tr>
-        <td markdown="span">6:00 PM - 6:15 PM</td>
+        <td markdown="span">6:00 PM - 6:15 PM (UTC)</td>
         <td markdown="span">***Paper 4:*** Intent2Vec: Representation learning of cardholder and merchant intent from temporal interaction sequences for Fraud detection<br/>*Nitish Kumar, Shiny John Shaju, Kanishka Kayathwal, Deepak Chaurasiya, Kushagra Agarwal, Alok Singh, Siddhartha Asthana and Ankur Arora (Mastercard)*</td>
     </tr>
     <tr>
-        <td markdown="span">6:15 PM - 6:30 PM</td>
+        <td markdown="span">6:15 PM - 6:30 PM (UTC)</td>
         <td markdown="span">***Paper 5:*** Contextualized Embeddings based Convolutional Neural Networks for Duplicate Question Identification<br/>*Harsh Sakhrani, Saloni Parekh and Pratik Ratadiya (Pune Institute of Computer Technology)*</td>
     </tr>
     <tr>
-        <td markdown="span">6:30 PM - 6:45 PM</td>
+        <td markdown="span">6:30 PM - 6:45 PM (UTC)</td>
         <td markdown="span">***Paper 6:*** Sequence-to-Sequence Learning on Keywords for Efficient FAQ Retrieval<br/>*Sourav Dutta, Haytham Assem and Edward Burgin (Huawei Research)*</td>
     </tr>
 </tbody>
