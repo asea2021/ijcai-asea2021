@@ -47,7 +47,7 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
     </tr> 
     <tr>
         <td markdown="span">4:30 PM - 5:15 PM (UTC)</td>
-        <td markdown="span">***Keynote 3:*** [TBD] (halevy)<br/>*Alon Halevy (Facebook AI)*</td>
+        <td markdown="span">***Keynote 3:*** [Coming Soon](halevy)<br/>*Alon Halevy (Facebook AI)*</td>
     </tr>
     <tr>
         <td markdown="span">5:15 PM - 6:00 PM (UTC)</td>
