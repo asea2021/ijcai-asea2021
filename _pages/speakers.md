@@ -10,7 +10,7 @@ feature_rowcustom:
   - image_path: assets/images/halevy.png
     title: '<span>Alon Y. Halevy</span>'
     excerpt: "Facebook AI"
-    url: https://homes.cs.washington.edu/~alon/
+    url: /halevy
   - image_path: assets/images/heng.png
     title: '<span>Heng Ji</span>'
     excerpt: "University of Illinois"
@@ -18,11 +18,11 @@ feature_rowcustom:
   - image_path: assets/images/partha.jpg
     title: '<span>Partha P. Talukdar</span>'
     excerpt: "Google Research"
-    url: https://talukdar.net/
+    url: /partha
   - image_path: assets/images/weld.jpg
     title: '<span>Dan Weld</span>'
     excerpt: "Allen Institute of AI"
-    url: https://www.cs.washington.edu/people/faculty/weld
+    url: /weld
 ---
 <h2>Keynote Speakers</h2>
 {% include feature_rowcustom %}

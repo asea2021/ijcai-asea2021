@@ -9,7 +9,7 @@
   <div style="display:table-row;">
     {% for f in feature_rowcustom %}
           <div style="display:table-cell;text-align:center;">
-              <a href="{{ f.url | relative_url }}" rel="nofollow noopener noreferrer">
+              <a href="{{ f.url | relative_url }}" rel="nofollow noopener noreferrer" style="text-decoration:none;">
                 <div>
                   <img src="{{ f.image_path | relative_url }}"
                         alt="{% if f.alt %}{{ f.alt }}{% endif %}">
