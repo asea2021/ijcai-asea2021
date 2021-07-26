@@ -54,7 +54,7 @@ Submissions can be made via [EasyChair submission website](https://easychair.org
         </tr>   
         <tr>
             <td>Camera Ready Paper</td>
-            <td>July 10, 2021</td>
+            <td><s>July 10, 2021</s></td>
         </tr> 
         <tr>
             <td>Workshop</td>

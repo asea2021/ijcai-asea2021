@@ -32,7 +32,7 @@ We cordially welcome researchers, practitioners, and students from academic and 
         </tr>   
         <tr>
             <td>Camera Ready Paper</td>
-            <td>July 10, 2021</td>
+            <td><s>July 10, 2021</s></td>
         </tr> 
         <tr>
             <td>Workshop</td>

@@ -23,11 +23,11 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
 <tbody>
     <tr>
         <td markdown="span">2:00 PM - 2:45 PM (UTC)</td>
-        <td markdown="span">***Keynote 1:*** [Semantic Scholar - Advanced NLP to Accelerate Scientific Research](/weld)<br/>*Dan Weld (Allen Institute of AI)*</td>
+        <td markdown="span">***Keynote 1:*** [Semantic Scholar - Advanced NLP to Accelerate Scientific Research](weld)<br/>*Dan Weld (Allen Institute of AI)*</td>
     </tr>
     <tr>
         <td markdown="span">2:00 PM - 2:45 PM (UTC)</td>
-        <td markdown="span">***Keynote 2:*** [Question Answering over Temporal Knowledge Graph](/partha)<br/>*Partha Pratim Talukdar (Google Research)*</td>
+        <td markdown="span">***Keynote 2:*** [Question Answering over Temporal Knowledge Graph](partha)<br/>*Partha Pratim Talukdar (Google Research)*</td>
     </tr>
     <tr>
         <td markdown="span">3:30 PM - 3:45 PM (UTC)</td>
@@ -47,11 +47,11 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
     </tr> 
     <tr>
         <td markdown="span">4:30 PM - 5:15 PM (UTC)</td>
-        <td markdown="span">***Keynote 3:*** [TBD] (/halevy)<br/>*Alon Halevy (Facebook AI)*</td>
+        <td markdown="span">***Keynote 3:*** [TBD] (halevy)<br/>*Alon Halevy (Facebook AI)*</td>
     </tr>
     <tr>
         <td markdown="span">5:15 PM - 6:00 PM (UTC)</td>
-        <td markdown="span">***Keynote 4:*** [Information Surgery](/heng)<br/>*Heng Ji (University of Illinois)*</td>
+        <td markdown="span">***Keynote 4:*** [Information Surgery](heng)<br/>*Heng Ji (University of Illinois)*</td>
     </tr>
     <tr>
         <td markdown="span">6:00 PM - 6:15 PM (UTC)</td>
