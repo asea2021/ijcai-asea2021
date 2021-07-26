@@ -19,9 +19,9 @@ feature_rowcustom:
     title: '<span style="font-size:80%;">Partha P. Talukdar</span>'
     excerpt: "Google Research"
     url: https://talukdar.net/
-  - image_path: assets/images/weld.jpg
+  - image_path: assets/images/partha.jpg
     title: '<span style="font-size:80%;">Dan Weld</span>'
-    excerpt: "Allen Institute of Artifical Intelligence"
+    excerpt: "Allen Institute of AI"
     url: https://www.cs.washington.edu/people/faculty/weld
 ---
 <h2>Keynote Speakers</h2>
