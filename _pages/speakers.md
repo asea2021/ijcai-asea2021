@@ -14,7 +14,7 @@ feature_rowcustom:
   - image_path: assets/images/heng.png
     title: '<span>Heng Ji</span>'
     excerpt: "University of Illinois"
-    url: https://cs.illinois.edu/about/people/department-faculty/hengji
+    url: /heng
   - image_path: assets/images/partha.jpg
     title: '<span>Partha P. Talukdar</span>'
     excerpt: "Google Research"
