@@ -26,7 +26,7 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
         <td markdown="span">***Keynote 1:*** [Semantic Scholar - Advanced NLP to Accelerate Scientific Research](weld)<br/>*Dan Weld (Allen Institute of AI)*</td>
     </tr>
     <tr>
-        <td markdown="span">2:00 PM - 2:45 PM (UTC)</td>
+        <td markdown="span">2:45 PM - 3:30 PM (UTC)</td>
         <td markdown="span">***Keynote 2:*** [Question Answering over Temporal Knowledge Graph](partha)<br/>*Partha Pratim Talukdar (Google Research)*</td>
     </tr>
     <tr>
