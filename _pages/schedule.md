@@ -47,11 +47,11 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
     </tr> 
     <tr>
         <td markdown="span">4:30 PM - 5:15 PM (UTC)</td>
-        <td markdown="span">***Keynote 3:*** [Obtaining Answers from Social Media Data](halevy)<br/>*Speaker:* Alon Halevy (Facebook AI)<br/>*Introduction:* Prof. Kamalakar Karlapalem (IIIT Hyderabad)</td>
+        <td markdown="span">***Keynote 3:*** [Obtaining Answers from Social Media Data](halevy)<br/>*Speaker:* Dr. Alon Halevy (Facebook AI)<br/>*Introduction:* Prof. Kamalakar Karlapalem (IIIT Hyderabad)</td>
     </tr>
     <tr>
         <td markdown="span">5:15 PM - 6:00 PM (UTC)</td>
-        <td markdown="span">***Keynote 4:*** [Information Surgery](heng)<br/>*Speaker:* Heng Ji (University of Illinois)<br/>*Introduction:* Prof. Craig Knoblock (Univ. of Southern California)</td>
+        <td markdown="span">***Keynote 4:*** [Information Surgery](heng)<br/>*Speaker:* Prof. Heng Ji (University of Illinois)<br/>*Introduction:* Prof. Craig Knoblock (Univ. of Southern California)</td>
     </tr>
     <tr>
         <td markdown="span">6:00 PM - 6:15 PM (UTC)</td>
