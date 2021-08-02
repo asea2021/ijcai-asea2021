@@ -23,23 +23,23 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
 <tbody>
     <tr>
         <td markdown="span">2:00 PM - 2:45 PM (UTC)</td>
-        <td markdown="span">***Keynote 1:*** [Semantic Scholar - Advanced NLP to Accelerate Scientific Research](weld)<br/>*Dan Weld (Allen Institute of AI)*</td>
+        <td markdown="span">***Keynote 1:*** [Semantic Scholar - Advanced NLP to Accelerate Scientific Research](weld)<br/>*Speaker:* Prof. Dan Weld (Allen Institute of AI)<br/>*Introduction:* Prof. Mausam (IIT Delhi)</td>
     </tr>
     <tr>
         <td markdown="span">2:45 PM - 3:30 PM (UTC)</td>
-        <td markdown="span">***Keynote 2:*** [Question Answering over Temporal Knowledge Graph](partha)<br/>*Partha Pratim Talukdar (Google Research)*</td>
+        <td markdown="span">***Keynote 2:*** [Question Answering over Temporal Knowledge Graph](partha)<br/>*Speaker:* Dr. Partha Pratim Talukdar (Google Research)<br/>*Introduction:* Dr. Sameena Shah (JPMorgan AI Research)</td>
     </tr>
     <tr>
         <td markdown="span">3:30 PM - 3:45 PM (UTC)</td>
-        <td markdown="span">***Paper 1:*** Extraction of Complex Semantic Relations from Resumes<br/>*Sachin Pawar, Devavrat Thosar, Nitin Ramrakhiyani, Girish Palshikar, Anindita Sinha and Rajiv Srivastava (TCS Research)*</td>
+        <td markdown="span">***Paper 1:*** Extraction of Complex Semantic Relations from Resumes<br/>*Authors:* Sachin Pawar, Devavrat Thosar, Nitin Ramrakhiyani, Girish Palshikar, Anindita Sinha and Rajiv Srivastava (TCS Research)<br/>*Coordinator*: Pulkit Parikh (IIIT Hyderabad)</td>
     </tr>
     <tr>
         <td markdown="span">3:45 PM - 4:00 PM (UTC)</td>
-        <td markdown="span">***Paper 2:*** Enriching Medical Natural Language Processing via Large-scale Concept Graph from Electronic Medical Records<br/>*Xiaokang Jiao, Xinhui Du, Zengtao Jiao, Kangning Cai and Jun Yan (Yidu Cloud)*</td>
+        <td markdown="span">***Paper 2:*** Enriching Medical Natural Language Processing via Large-scale Concept Graph from Electronic Medical Records<br/>*Authors:* Xiaokang Jiao, Xinhui Du, Zengtao Jiao, Kangning Cai and Jun Yan (Yidu Cloud)<br/>*Coordinator*: Pulkit Parikh (IIIT Hyderabad)</td>
     </tr>
     <tr>
         <td markdown="span">4:00 PM - 4:15 PM (UTC)</td>
-        <td markdown="span">***Paper 3:*** Extracting Semantics from Maintenance Records<br/>*Sharad Dixit, Varish Mulwad and Abhinav Saxena (GE Research)*</td>
+        <td markdown="span">***Paper 3:*** Extracting Semantics from Maintenance Records<br/>*Authors:* Sharad Dixit, Varish Mulwad and Abhinav Saxena (GE Research)<br/>*Coordinator*: Pulkit Parikh (IIIT Hyderabad)</td>
     </tr>
     <tr bgcolor="#f7f1df">
         <td markdown="span">4:15 PM - 4:30 PM (UTC)</td>
@@ -47,23 +47,23 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
     </tr> 
     <tr>
         <td markdown="span">4:30 PM - 5:15 PM (UTC)</td>
-        <td markdown="span">***Keynote 3:*** [Coming Soon](halevy)<br/>*Alon Halevy (Facebook AI)*</td>
+        <td markdown="span">***Keynote 3:*** [Obtaining Answers from Social Media Data](halevy)<br/>*Speaker:* Alon Halevy (Facebook AI)<br/>*Introduction:* Prof. Kamalakar Karlapalem (IIIT Hyderabad)</td>
     </tr>
     <tr>
         <td markdown="span">5:15 PM - 6:00 PM (UTC)</td>
-        <td markdown="span">***Keynote 4:*** [Information Surgery](heng)<br/>*Heng Ji (University of Illinois)*</td>
+        <td markdown="span">***Keynote 4:*** [Information Surgery](heng)<br/>*Speaker:* Heng Ji (University of Illinois)<br/>*Introduction:* Prof. Craig Knoblock (Univ. of Southern California)</td>
     </tr>
     <tr>
         <td markdown="span">6:00 PM - 6:15 PM (UTC)</td>
-        <td markdown="span">***Paper 4:*** Intent2Vec: Representation learning of cardholder and merchant intent from temporal interaction sequences for Fraud detection<br/>*Nitish Kumar, Shiny John Shaju, Kanishka Kayathwal, Deepak Chaurasiya, Kushagra Agarwal, Alok Singh, Siddhartha Asthana and Ankur Arora (Mastercard)*</td>
+        <td markdown="span">***Paper 4:*** Intent2Vec: Representation learning of cardholder and merchant intent from temporal interaction sequences for Fraud detection<br/>*Authors:* Nitish Kumar, Shiny John Shaju, Kanishka Kayathwal, Deepak Chaurasiya, Kushagra Agarwal, Alok Singh, Siddhartha Asthana and Ankur Arora (Mastercard) <br/>*Coordinator*: Dr. Natraj Raman (JPMorgan AI Research)</td>
     </tr>
     <tr>
         <td markdown="span">6:15 PM - 6:30 PM (UTC)</td>
-        <td markdown="span">***Paper 5:*** Contextualized Embeddings based Convolutional Neural Networks for Duplicate Question Identification<br/>*Harsh Sakhrani, Saloni Parekh and Pratik Ratadiya (Pune Institute of Computer Technology)*</td>
+        <td markdown="span">***Paper 5:*** Contextualized Embeddings based Convolutional Neural Networks for Duplicate Question Identification<br/>*Authors:* Harsh Sakhrani, Saloni Parekh and Pratik Ratadiya (Pune Institute of Computer Technology)<br/>*Coordinator*: Dr. Natraj Raman (JPMorgan AI Research)</td>
     </tr>
     <tr>
         <td markdown="span">6:30 PM - 6:45 PM (UTC)</td>
-        <td markdown="span">***Paper 6:*** Sequence-to-Sequence Learning on Keywords for Efficient FAQ Retrieval<br/>*Sourav Dutta, Haytham Assem and Edward Burgin (Huawei Research)*</td>
+        <td markdown="span">***Paper 6:*** Sequence-to-Sequence Learning on Keywords for Efficient FAQ Retrieval<br/>*Authors:* Sourav Dutta, Haytham Assem and Edward Burgin (Huawei Research)<br/>*Coordinator*: Dr. Natraj Raman (JPMorgan AI Research)</td>
     </tr>
 </tbody>
 </table>
