@@ -31,15 +31,15 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
     </tr>
     <tr>
         <td markdown="span">3:30 PM - 3:45 PM (UTC)</td>
-        <td markdown="span">***Paper 1:*** [Extraction of Complex Semantic Relations from Resumes](/assets/pdfs/ASEA_2021_paper_1.pdf)<br/>*Authors:* Sachin Pawar, Devavrat Thosar, Nitin Ramrakhiyani, Girish Palshikar, Anindita Sinha and Rajiv Srivastava (TCS Research)<br/>*Coordinator*: Pulkit Parikh (IIIT Hyderabad)</td>
+        <td markdown="span">***Paper 1:*** [Extraction of Complex Semantic Relations from Resumes](/ijcai-asea2021/assets/pdfs/ASEA_2021_paper_1.pdf)<br/>*Authors:* Sachin Pawar, Devavrat Thosar, Nitin Ramrakhiyani, Girish Palshikar, Anindita Sinha and Rajiv Srivastava (TCS Research)<br/>*Coordinator*: Pulkit Parikh (IIIT Hyderabad)</td>
     </tr>
     <tr>
         <td markdown="span">3:45 PM - 4:00 PM (UTC)</td>
-        <td markdown="span">***Paper 2:*** [Enriching Medical Natural Language Processing via Large-scale Concept Graph from Electronic Medical Records](/assets/pdfs/ASEA_2021_paper_2.pdf)<br/>*Authors:* Xiaokang Jiao, Xinhui Du, Zengtao Jiao, Kangning Cai and Jun Yan (Yidu Cloud)<br/>*Coordinator*: Pulkit Parikh (IIIT Hyderabad)</td>
+        <td markdown="span">***Paper 2:*** [Enriching Medical Natural Language Processing via Large-scale Concept Graph from Electronic Medical Records](/ijcai-asea2021/assets/pdfs/ASEA_2021_paper_2.pdf)<br/>*Authors:* Xiaokang Jiao, Xinhui Du, Zengtao Jiao, Kangning Cai and Jun Yan (Yidu Cloud)<br/>*Coordinator*: Pulkit Parikh (IIIT Hyderabad)</td>
     </tr>
     <tr>
         <td markdown="span">4:00 PM - 4:15 PM (UTC)</td>
-        <td markdown="span">***Paper 3:*** [Extracting Semantics from Maintenance Records](/assets/pdfs/ASEA_2021_paper_3.pdf)<br/>*Authors:* Sharad Dixit, Varish Mulwad and Abhinav Saxena (GE Research)<br/>*Coordinator*: Pulkit Parikh (IIIT Hyderabad)</td>
+        <td markdown="span">***Paper 3:*** [Extracting Semantics from Maintenance Records](/ijcai-asea2021/assets/pdfs/ASEA_2021_paper_3.pdf)<br/>*Authors:* Sharad Dixit, Varish Mulwad and Abhinav Saxena (GE Research)<br/>*Coordinator*: Pulkit Parikh (IIIT Hyderabad)</td>
     </tr>
     <tr bgcolor="#f7f1df">
         <td markdown="span">4:15 PM - 4:30 PM (UTC)</td>
@@ -55,15 +55,15 @@ excerpt: '<br/><span class="fa fa-calendar-week" style="margin-right:8px; font-s
     </tr>
     <tr>
         <td markdown="span">6:00 PM - 6:15 PM (UTC)</td>
-        <td markdown="span">***Paper 4:*** [Intent2Vec: Representation learning of cardholder and merchant intent from temporal interaction sequences for Fraud detection](/assets/pdfs/ASEA_2021_paper_4.pdf)<br/>*Authors:* Nitish Kumar, Shiny John Shaju, Kanishka Kayathwal, Deepak Chaurasiya, Kushagra Agarwal, Alok Singh, Siddhartha Asthana and Ankur Arora (Mastercard) <br/>*Coordinator*: Dr. Natraj Raman (JPMorgan AI Research)</td>
+        <td markdown="span">***Paper 4:*** [Intent2Vec: Representation learning of cardholder and merchant intent from temporal interaction sequences for Fraud detection](/ijcai-asea2021/assets/pdfs/ASEA_2021_paper_4.pdf)<br/>*Authors:* Nitish Kumar, Shiny John Shaju, Kanishka Kayathwal, Deepak Chaurasiya, Kushagra Agarwal, Alok Singh, Siddhartha Asthana and Ankur Arora (Mastercard) <br/>*Coordinator*: Dr. Natraj Raman (JPMorgan AI Research)</td>
     </tr>
     <tr>
         <td markdown="span">6:15 PM - 6:30 PM (UTC)</td>
-        <td markdown="span">***Paper 5:*** [Contextualized Embeddings based Convolutional Neural Networks for Duplicate Question Identification](/assets/pdfs/ASEA_2021_paper_5.pdf)<br/>*Authors:* Harsh Sakhrani, Saloni Parekh and Pratik Ratadiya (Pune Institute of Computer Technology)<br/>*Coordinator*: Dr. Natraj Raman (JPMorgan AI Research)</td>
+        <td markdown="span">***Paper 5:*** [Contextualized Embeddings based Convolutional Neural Networks for Duplicate Question Identification](/ijcai-asea2021/assets/pdfs/ASEA_2021_paper_5.pdf)<br/>*Authors:* Harsh Sakhrani, Saloni Parekh and Pratik Ratadiya (Pune Institute of Computer Technology)<br/>*Coordinator*: Dr. Natraj Raman (JPMorgan AI Research)</td>
     </tr>
     <tr>
         <td markdown="span">6:30 PM - 6:45 PM (UTC)</td>
-        <td markdown="span">***Paper 6:*** [Sequence-to-Sequence Learning on Keywords for Efficient FAQ Retrieval](/assets/pdfs/ASEA_2021_paper_6.pdf)<br/>*Authors:* Sourav Dutta, Haytham Assem and Edward Burgin (Huawei Research)<br/>*Coordinator*: Dr. Natraj Raman (JPMorgan AI Research)</td>
+        <td markdown="span">***Paper 6:*** [Sequence-to-Sequence Learning on Keywords for Efficient FAQ Retrieval](/ijcai-asea2021/assets/pdfs/ASEA_2021_paper_6.pdf)<br/>*Authors:* Sourav Dutta, Haytham Assem and Edward Burgin (Huawei Research)<br/>*Coordinator*: Dr. Natraj Raman (JPMorgan AI Research)</td>
     </tr>
 </tbody>
 </table>
